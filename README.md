@@ -24,6 +24,9 @@ To run the project, you will need the following:
 - Matplotlib
 - Keras (for dataset access)
 - Pickle (for saving and loading trained parameters)
+```
+pip install -r requirements.txt
+```
 
 ## How to Use
 
